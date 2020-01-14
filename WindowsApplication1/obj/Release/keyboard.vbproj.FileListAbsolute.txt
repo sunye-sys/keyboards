@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\bin\Release\keyboards.exe.config
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\bin\Release\keyboards.exe
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\bin\Release\keyboards.pdb
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\bin\Release\keyboards.xml
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboard.skey.resources
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboard.Resources.resources
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboard.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.exe
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.xml
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.pdb
+C:\Users\Administrator\Desktop\WindowsApplication1\WindowsApplication1\obj\Release\keyboard.vbprojAssemblyReference.cache
