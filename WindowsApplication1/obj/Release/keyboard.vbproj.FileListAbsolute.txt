@@ -20,3 +20,14 @@ D:\github\新建文件夹k\WindowsApplication1\WindowsApplication1\obj\Release\k
 D:\github\新建文件夹k\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.exe
 D:\github\新建文件夹k\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.xml
 D:\github\新建文件夹k\WindowsApplication1\WindowsApplication1\obj\Release\keyboards.pdb
+D:\github\jP\WindowsApplication1\bin\Release\keyboards.exe.config
+D:\github\jP\WindowsApplication1\bin\Release\keyboards.exe
+D:\github\jP\WindowsApplication1\bin\Release\keyboards.pdb
+D:\github\jP\WindowsApplication1\bin\Release\keyboards.xml
+D:\github\jP\WindowsApplication1\obj\Release\keyboard.vbprojAssemblyReference.cache
+D:\github\jP\WindowsApplication1\obj\Release\keyboard.skey.resources
+D:\github\jP\WindowsApplication1\obj\Release\keyboard.Resources.resources
+D:\github\jP\WindowsApplication1\obj\Release\keyboard.vbproj.GenerateResource.cache
+D:\github\jP\WindowsApplication1\obj\Release\keyboards.exe
+D:\github\jP\WindowsApplication1\obj\Release\keyboards.xml
+D:\github\jP\WindowsApplication1\obj\Release\keyboards.pdb
